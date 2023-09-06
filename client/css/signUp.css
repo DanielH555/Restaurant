@@ -1,0 +1,23 @@
+.container {
+  width: 400px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+
+#signUpBox {
+  padding: 3rem;
+}
+
+
+
+
+#signUpCover {
+
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: rgba(215, 215, 210, 0.752);
+}

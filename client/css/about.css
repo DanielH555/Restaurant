@@ -1,0 +1,10 @@
+.container2 {
+    background-image: url("../pics/restaurant_image.jpg");
+    width: 100% !important;
+    height: 100%;
+    margin: 0px;
+    padding-top: 100px;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
